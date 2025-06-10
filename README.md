@@ -3,14 +3,14 @@
 
 ## 🦄 About Me
 
-- 👨‍💻 Senior Web Developer specialized in backend development (mostly with PHP)
-- 🐳 Interested in DevOps and Cybersecurity (skilled in a semi-professional capacity)
-- 🧠 15+ years of experience in the IT field (not just as developer)
-- 🔍 Constantly learning new things and experimenting with new tools 
+- 👨‍💻 Senior Web Developer specializing in backend development with PHP (Laravel, Symfony, Drupal)
+- 🐳 Passionate about DevOps and Cybersecurity with hands-on experience
+- 🧠 15+ years of experience in IT, including backend development and systems administration
+- 🔍 Lifelong learner, experimenting with modern tools and frameworks
 
 
 ## 🏆 GitHub Stats
 
-![Rumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumenDamyanov&show_icons=true&theme=vue-dark)
-
 ![GitHub followers](https://img.shields.io/github/followers/RumenDamyanov?label=Follow&style=social) 
+
+![Rumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumenDamyanov&show_icons=true&theme=vue-dark)
