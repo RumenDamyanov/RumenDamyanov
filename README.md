@@ -15,4 +15,5 @@ Feel free to connect if you'd like to chat about development, open-source projec
 
 ![GitHub followers](https://img.shields.io/github/followers/RumenDamyanov?label=Follow&style=social) 
 
-![Rumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumenDamyanov&show_icons=true&theme=vue-dark)
+![Rumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumenDamyanov&show_icons=true&hide=contribs&show=reviews,prs_merged&theme=vue-dark&line_height=24)  ![Rumen's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenDamyanov&hide=css,scss,html&exclude_repo=archive-kazvam.com&layout=donut&theme=vue-dark)
+
