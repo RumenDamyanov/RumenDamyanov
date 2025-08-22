@@ -3,12 +3,12 @@
 
 ## 🦄 About Me
 
-- 👨‍💻 Senior Web Developer specializing in backend development with PHP (Laravel, Symfony, Drupal, WordPress).
-- 👨‍🔬 Diving deep into the Go ecosystem, cloud-native and Kubernetes to build scalable microservices and robust APIs.
+- 👨‍💻 Senior Full-Stack Developer specializing in development with PHP (Laravel/Symfony), Go and JS.
+- 👨‍🔬 Diving deep into the cloud-native ecosystem and Kubernetes to build scalable microservices and robust APIs.
 - 🐳 Passionate about DevOps and Cybersecurity with hands-on experience.
 - 🔍 Lifelong learner, experimenting with modern tools and frameworks.
 
-Feel free to connect if you'd like to chat about development, open-source projects, or innovative ways to solve technical challenges.
+Feel free to connect if you'd like to chat about development, open-source projects, or innovative ways to solve technical challenges..
 
 
 ## 🏆 GitHub Stats
