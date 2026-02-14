@@ -1,19 +1,16 @@
 # Hey there 👋
 
-
 ## 🦄 About Me
 
-- 👨‍💻 Senior Full-Stack Developer specializing in development with PHP (Laravel/Symfony), Go and JS.
+- 👨‍💻 Senior Software Developer specializing in development with PHP, TypeScript, Python, Go, C/C++ and Rust.
 - 👨‍🔬 Diving deep into the cloud-native ecosystem and Kubernetes to build scalable microservices and robust APIs.
 - 🐳 Passionate about DevOps and Cybersecurity with hands-on experience.
 - 🔍 Lifelong learner, experimenting with modern tools and frameworks.
 
-Feel free to connect if you'd like to chat about development, open-source projects, or innovative ways to solve technical challenges..
-
+Feel free to connect if you'd like to chat about development, open-source projects, or innovative ways to solve technical challenges.
 
 ## 🏆 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/RumenDamyanov?label=Follow&style=social) 
+[![committers.top badge](https://user-badge.committers.top/bulgaria/RumenDamyanov.svg)](https://user-badge.committers.top/bulgaria/RumenDamyanov)
 
-![Rumen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RumenDamyanov&show_icons=true&hide=contribs&show=reviews,prs_merged&theme=vue-dark&line_height=24)  ![Rumen's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenDamyanov&hide=css,scss,html&exclude_repo=archive-kazvam.com&layout=donut&theme=vue-dark)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RumenDamyanov?cardType=level&theme=vue-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
