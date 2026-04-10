@@ -7,7 +7,7 @@
 - 🐳 Passionate about DevOps and Cybersecurity with hands-on experience.
 - 🔍 Lifelong learner, experimenting with modern tools and frameworks.
 
-I'm always happy to connect with like-minded developers who value clean design and practical solutions. Don't hesitate to get in touch if you're interested in discussing system architecture, sharing lessons from real-world challenges, or collaborating on meaningful projects.
+I'm always happy to connect with like-minded developers who value clean design and practical solutions. Don't hesitate to get in touch if you're interested in discussing system architecture, or collaborating on meaningful projects.
 
 ## 🏆 GitHub Stats
 
